@@ -1,0 +1,29 @@
+.answer1-box {
+  background-color: white;
+  margin: 20px 375px 10px 375px;
+  width: 510px;
+  height: 61px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  border: 2px solid transparent;
+  font-weight: 600;
+}
+.answer1-box:hover {
+  border: 2px solid blue;
+  cursor: pointer;
+  font-weight: 800;
+}
+.circle {
+  width: 39px;
+  height: 39px;
+  background-color: rgba(237, 232, 227, 1);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 16px 0px 16px 15px;
+}
+.answer {
+  margin-left: 10px;
+}

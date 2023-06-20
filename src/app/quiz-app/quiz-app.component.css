@@ -1,0 +1,45 @@
+.navbar {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.FantasyQuizHeading {
+  font-weight: 600;
+  font-size: 24px;
+}
+.left-icon {
+  border-radius: 8px;
+  font-weight: 600;
+  width: 95.45px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  font-size: 22.2727px;
+  margin: 0px 0px 0px 40px;
+  background-color: white;
+}
+.cross {
+  opacity: 0.8;
+  margin-right: 40px;
+  width: 50px;
+  height: 50px;
+  background-color: #f4f3f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.cross:hover {
+  opacity: 1;
+  cursor: pointer;
+  width: 52px;
+  height: 52px;
+}
+.topLeftScore {
+  margin: 6.36px 14.09px 5.64px 6.36px;
+}
+.cash-icon {
+  margin: 6.36px 0px 6.36px 12.73px;
+}
